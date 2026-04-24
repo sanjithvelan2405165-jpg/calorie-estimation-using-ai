@@ -1,0 +1,7 @@
+{
+  "name": "Remix: NutriVision AI",
+  "description": "AI-powered calorie tracking and nutrition planning with real-time food analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
